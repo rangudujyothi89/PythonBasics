@@ -2,7 +2,7 @@ import math
 print("Jyothi Rangudu")
 print('*' * 10)
 #name = input('what is your name? ')
-#color = input('what is your favourite color? ') 123
+#color = input('what is your favourite color? ') 
 #print(name + ' likes ' + color)
 #Type Conversion
 int('1982')
